@@ -2,9 +2,9 @@
 # Generated on 2025-05-29 for production stability
 
 # Core application dependencies
-flask==3.0.3
+flask==3.1.1
 python-dotenv==1.0.1
-requests==2.32.3
+requests==2.32.2
 beautifulsoup4==4.12.3
 lxml==5.3.0
 openai==1.35.7
@@ -23,7 +23,7 @@ selenium==4.21.0
 webdriver-manager==4.0.1
 
 # Security and utilities - Latest stable
-certifi==2024.6.2
+certifi==2024.7.4
 urllib3==2.2.3
 charset-normalizer==3.4.2
 cryptography==42.0.8
